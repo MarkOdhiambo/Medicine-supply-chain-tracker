@@ -1,0 +1,11 @@
+.image{
+    width: 350px;
+}
+.send-button{
+    background: #4E32DA;
+    border: none;
+    color: #fff;
+    padding: .8em 1.2em;
+    border-radius: 10px;
+    margin-left: 110px;
+}

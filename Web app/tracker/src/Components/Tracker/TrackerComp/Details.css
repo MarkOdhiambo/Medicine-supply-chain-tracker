@@ -1,0 +1,21 @@
+.details{
+    width:520px;
+}
+.detail-list{
+    margin-top: 15em;
+}
+
+h1 {
+    font-size: 1.5em;
+    color:#4E32DA;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+ul li {
+ text-align: center;
+ padding-top: .5em;
+}
